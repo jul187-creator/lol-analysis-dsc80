@@ -17,7 +17,7 @@ thriving professional esports scene. In professional play, teams constantly deba
 much does early game performance actually matter?
 
 This project analyzes match data from 47 different professional leagues throughout 2024 to answer a specific question: *
-*Does having a gold advantage at 15 minutes significantly increase a team's chance of winning the game?**
+*Does having a gold advantage at 15 minutes significantly increase a team's chance of winning the game?*
 
 Understanding this relationship is crucial for:
 
