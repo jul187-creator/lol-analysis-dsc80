@@ -2,7 +2,7 @@
 
 ## Does Early Game Gold Lead Predict Victory?
 
-**Author:** jul187
+**Author:** Junle Li
 **Course:** DSC 80 - The Practice and Application of Data Science  
 **Dataset:** 2024 Professional LoL Match Data from Oracle's Elixir
 
@@ -16,7 +16,8 @@ League of Legends (LoL) is one of the most popular multiplayer online battle are
 thriving professional esports scene. In professional play, teams constantly debate a fundamental strategic question: how
 much does early game performance actually matter?
 
-This project analyzes match data from 47 different professional leagues throughout 2024 to answer a specific question: **Does having a gold advantage at 15 minutes significantly increase a team's chance of winning the game?**
+This project analyzes match data from 47 different professional leagues throughout 2024 to answer a specific question: *
+*Does having a gold advantage at 15 minutes significantly increase a team's chance of winning the game?**
 
 Understanding this relationship is crucial for:
 
@@ -26,7 +27,8 @@ Understanding this relationship is crucial for:
 
 ### Dataset Overview
 
-The dataset contains comprehensive match statistics from **8,411 complete professional games** in 2024, totaling **16,822 team records** (2 teams per game).
+The dataset contains comprehensive match statistics from **8,411 complete professional games** in 2024, totaling *
+*16,822 team records** (2 teams per game).
 
 **Key Columns Used in Analysis:**
 
